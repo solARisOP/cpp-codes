@@ -1,0 +1,1 @@
+  // getline(aja, d); 
